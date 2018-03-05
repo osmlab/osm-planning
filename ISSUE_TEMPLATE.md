@@ -46,7 +46,7 @@ Ideas you rejected?
 Random thoughts?
 -->
 
-#### See Also:
+#### See also:
 
 <!--
 Prior art, links to existing similar or related projects
