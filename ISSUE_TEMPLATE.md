@@ -52,6 +52,13 @@ Random thoughts?
 Prior art, links to existing similar or related projects
 -->
 
+#### Any ideas for a project name?
+
+<!--
+Think outside the box.  Not everything needs to be an
+OpenSomethingMap or have OSM in the name of it.
+-->
+
 #### Describe this project in a single emoji:
 
 <!--
